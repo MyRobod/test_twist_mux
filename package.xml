@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package format="2">
+    <name>test_twist_mux</name>
+    <version>1.0.0</version>
+    <description>The test_twist_mux package</description>
+
+    <license>BSD</license>
+    <author email="sweilz.w@gmail.com">Liews Wuttipat</author>
+    <maintainer email="sweilz.w@gmail.com">Liews Wuttipat</maintainer>
+    <url type="repository">https://github.com/MyRobod/test_twist_mux</url>
+    <buildtool_depend>catkin</buildtool_depend>
+</package>
